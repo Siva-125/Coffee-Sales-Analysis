@@ -1,4 +1,4 @@
-# Coffee Sales Analysis
+# Coffee Sales Analysis & Dashboard
 A Data Analysis and Visulization Project that uses **Excel** for Data Cleaning, **PostgreSQL** for storge and processing, **Tableau** for reporting on coffee sales.
 
 ---
